@@ -70,4 +70,6 @@ Chatbot, yüklenen veri setindeki bilgilere dayanarak psikoloji ile ilgili sorul
 
 ### Web Arayüzü Linki
 
-(Uygulama yayına alındıktan sonra (deploy) link buraya eklenecektir.)
+Uygulamaya aşağıdaki linkten erişebilirsiniz:
+
+[https://genai-chatbot-3cekicjqvhry3q4zbsntsz.streamlit.app/](https://genai-chatbot-3cekicjqvhry3q4zbsntsz.streamlit.app/)
