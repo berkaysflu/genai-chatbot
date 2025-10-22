@@ -73,3 +73,5 @@ Chatbot, yüklenen veri setindeki bilgilere dayanarak psikoloji ile ilgili sorul
 Uygulamaya aşağıdaki linkten erişebilirsiniz:
 
 [https://genai-chatbot-3cekicjqvhry3q4zbsntsz.streamlit.app/](https://genai-chatbot-3cekicjqvhry3q4zbsntsz.streamlit.app/)
+
+**ÖNEMLİ NOT:** Uygulama, Streamlit Community Cloud'un ücretsiz katmanındaki "adil kullanım" limitlerini (muhtemelen RAG hafızasının ilk oluşturulması sırasındaki kaynak kullanımı nedeniyle) aşabildiği için zaman zaman erişilemez olabilir veya engellenebilir. Eğer link çalışmazsa, projenin kodu bu GitHub deposunda mevcuttur ve yukarıdaki "Çalıştırma Kılavuzu" adımları takip edilerek lokal bilgisayarda sorunsuz bir şekilde çalıştırılabilir.
